@@ -37,7 +37,7 @@
 ## Uso
 
 - Inicia el servidor de desarrollo utilizando docker desktop: `docker compose up -d`
-- Realiza las peticiones HTTP utilizando una herramienta favorita como Thunder Client.
+- Realiza las peticiones HTTP utilizando una herramienta como Thunder Client.
 
 ## Endpoints
 
